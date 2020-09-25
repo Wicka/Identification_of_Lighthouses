@@ -1,4 +1,4 @@
-package identification.lighthouses.service;
+package wicka.identification.lighthouses.service;
 
 public class UserService {
 
